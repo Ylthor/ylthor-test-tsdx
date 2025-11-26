@@ -1,9 +1,7 @@
 import React from 'react';
 
-function TestComponent() {
+export function TestComponent() {
     return (
-        <div>HELLO CAN U WORK AT ALL???</div>
+        <div>HELLO CAN U WORK AT ALL 123???</div>
     );
 }
-
-export default TestComponent;
